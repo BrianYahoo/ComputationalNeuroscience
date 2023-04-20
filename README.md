@@ -1,2 +1,2 @@
-# ComputationalNeuroscience-
+# ComputationalNeuroscience
 Modeling, Analysis, Visualization, ...
